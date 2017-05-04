@@ -1,6 +1,7 @@
 package com.tji4exe.ch11.holdsobject;
 
 import java.util.ArrayList;
+import java.util.Iterator;
 
 /**
  * Created by silver on 2017/4/24.
@@ -21,6 +22,7 @@ import java.util.ArrayList;
     public void hop() {
         System.out.println("Gerbil+" + gerbilNumber() + ":hops");
     }
+
 
 }
 

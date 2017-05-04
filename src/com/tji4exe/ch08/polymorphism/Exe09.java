@@ -66,11 +66,6 @@ public class Exe09 {
 		}
 	}
 	
-	
-	public static void printOwn(Rodent[] rods){
-		
-		
-	}
 	public static void main(String[] args){
 		Rodent[] rodents = {new Hamster(),new Gerbil(),new Mouse(), new Rodent()};
 		printAll(rodents);
