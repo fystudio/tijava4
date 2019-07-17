@@ -1,0 +1,16 @@
+package com.course.ch04.controlling;
+
+import java.util.Random;
+
+import static net.mindview.util.Print.print;
+
+public class ForEachFloat {
+    public static void main(String[] args) {
+        Random rand = new Random();
+        float f[] = new float[10];
+        for (int i=0;i<10;i++)
+            f[i]=rand.nextFloat();
+        for(float x:f)
+            print(x);
+    }
+}

@@ -1,6 +1,6 @@
 //: typeinfo/SimpleProxyDemo.java
-import static net.mindview.util.Print.*;
 
+import static net.mindview.util.Print.print;
 interface Interface {
   void doSomething();
   void somethingElse(String arg);
