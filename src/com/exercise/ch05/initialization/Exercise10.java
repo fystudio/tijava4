@@ -6,9 +6,7 @@ public class Exercise10 {
 		System.out.println("finalize");
 		//super.finalize();
 	}
-		
-	
-	
+
 	public  static void main(String args[]){
 		
 		new Exercise10();
