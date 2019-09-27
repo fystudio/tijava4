@@ -58,7 +58,7 @@ class Sandwich extends PortableLunch1 {
 	 * Sandwich()
 	 */// :~
 
-public class Exe11 {
+public class Exercise11 {
 
 	public static void main(String[] args) {
 		new Sandwich();

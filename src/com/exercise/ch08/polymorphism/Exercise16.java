@@ -41,7 +41,7 @@ class Stage {
 	}
 }
 
-public class Exe16 {
+public class Exercise16 {
 
 	public static void main(String[] args) {
 		Stage stage = new Stage();

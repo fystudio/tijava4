@@ -1,4 +1,5 @@
 package com.course.ch08.polymorphism;
+//upcasting
 class Instrument {
 	public void play(Note n){
 		System.out.println("Instrument.play()");

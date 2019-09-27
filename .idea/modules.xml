@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../javadp/javadp.iml" filepath="$PROJECT_DIR$/../javadp/javadp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../javadv/java/javadv/javadv.iml" filepath="$PROJECT_DIR$/../javadv/java/javadv/javadv.iml" />
       <module fileurl="file://$PROJECT_DIR$/tijava4.iml" filepath="$PROJECT_DIR$/tijava4.iml" />
     </modules>
   </component>

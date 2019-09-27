@@ -17,7 +17,7 @@ class Bass {
 	}
 }
 
-public class Exe01 {
+public class Exercise1 {
 	private Bass bb;
 
 	public String toString() {
@@ -28,7 +28,7 @@ public class Exe01 {
 	}
 
 	public static void main(String[] args) {
-		Exe01 exe01 = new Exe01();
+		Exercise1 exe01 = new Exercise1();
 		System.out.println(exe01);
 
 	}

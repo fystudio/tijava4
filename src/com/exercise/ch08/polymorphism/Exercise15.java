@@ -23,11 +23,6 @@ class RoundGlyph extends Glyph {
 		print("RoundGlyph() after draw()");
 	}
 
-//	RoundGlyph(int r) {
-//		radius = r;
-//		print("RoundGlyph.RouldGlyph(),radius=" + radius);
-//	}
-
 	void draw() {
 		print("RoundGlyhp.draw(),radius=" + radius);
 	}
@@ -48,7 +43,7 @@ class RetangularGlyph extends RoundGlyph {
 
 }
 
-public class Exe15 {
+public class Exercise15 {
 
 	public static void main(String[] args) {
 		new RetangularGlyph(11);
@@ -56,3 +51,11 @@ public class Exe15 {
 	}
 
 }
+/*Glyph() before draw()
+RetangularGlyph.draw(),radius=0
+Glyph() after draw()
+RoundGlyph() before draw()
+RetangularGlyph.draw(),radius=0
+RoundGlyph() after draw()
+RetangularGlyph.draw(), radius=11
+* */

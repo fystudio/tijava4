@@ -11,27 +11,24 @@ interface TED {
 	void spread();
 }
 
-public class Exe09 {
+public class Exercise09 {
 
-	public TED13 share() {
-		class TEDX implements TED13 {
+	public TED call() {
+		class TEDX implements TED {
 
 			@Override
 			public void spread() {
-				print("spread");
-
+				print("TEDX spread");
 			}
-
 		}
-
 		return new TEDX();
 	}
 //	new TEDX();
 	
 	public static void main(String[] args) {
-		Exe09 td = new Exe09();
-		TED13 tt = td.share();
-		tt.spread();
+		Exercise09 td = new Exercise09();
+		TED tdx = td.call();
+		tdx.spread();
 
 	}
 

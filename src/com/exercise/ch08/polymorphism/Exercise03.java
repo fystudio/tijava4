@@ -1,7 +1,9 @@
 package com.exercise.ch08.polymorphism;
 
 import static net.mindview.util.Print.print;
-
+// add a new method in the base class of Shapes.java that prints a message,
+//but don't override it in the derived classes. Explain what happens.
+//Finally, override it in all the derived classes
 class Shape1 {
 	public void draw() {
 		print("shape.draw()");
@@ -33,7 +35,7 @@ class Square1 extends Shape1 {
 	// }
 }
 
-public class Exe03 {
+public class Exercise03 {
 
 	public static void main(String[] args) {
 

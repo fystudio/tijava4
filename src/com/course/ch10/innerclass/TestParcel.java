@@ -1,6 +1,6 @@
 package com.course.ch10.innerclass;
 //: innerclasses/TestParcel.java
-
+// innerclass and upcasting
 class Parcel4 {
 	private class PContents implements Contents {
 		private int i = 11;
@@ -37,7 +37,7 @@ public class TestParcel {
 		Contents c = p.contents();
 		Destination d = p.destination("Tasmania");
 		// Illegal -- can't access private class:
-		// ! Parcel4.PContents pc = p.new PContents();
+		//! Parcel4.PContents pc = p.new PContents();
 		
 	}
 } /// :~

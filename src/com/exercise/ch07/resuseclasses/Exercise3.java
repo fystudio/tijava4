@@ -25,11 +25,11 @@ class Cartoon extends Drawing {
 
 }
 
-public class Exe03 extends Cartoon {
+public class Exercise3 extends Cartoon {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		new Exe03();
+		new Exercise3();
 
 	}
 

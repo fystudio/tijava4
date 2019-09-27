@@ -4,15 +4,12 @@ import static net.mindview.util.Print.print;
 
 class Base {
 	public void play() {
-
 		print("Base.play");
 		tune();
-
 	}
 
 	public void tune() {
 		print("Base.tune");
-
 	}
 }
 
@@ -28,13 +25,11 @@ class Child extends Base {
 
 }
 
-public class Exe10 {
-
+public class Exercise10 {
 	public static void main(String[] args) {
 		Base ch = new Child();
 		ch.play();
 	}
-
 }
 
 //Base.play

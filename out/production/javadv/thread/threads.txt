@@ -1,0 +1,99 @@
+Every java program has a default main thread
+Athread is an independent path of code execution
+Many threads can run concurrently in a Java program
+Threads can be used to perform time-intensive tasks
+
+Runnables are objects that encapsulate code sequences
+Each thread executes a runnable object
+Threads can initiate an asynchronous task
+Asynchronous indicates that it can run concurrently
+
+The JVM gives each thread its own private JVM stack
+This prevents threads from interfering with each other
+The stack holds local variables
+It also tracks next instructions and calls methods
+
+Java supports threads through java.lang.Thread class and the java.lang.Runnable interface
+Threads are either daemon or non-daemon
+Daemon threads don't stop the JVM from ending
+Threads by default are non-daemon threads
+
+Java garbage collection runs on a daemon thread
+A daemon thread is created calling setDaemon(true)
+Them main thread is a non-daemon thread
+The program ends when non-daemon threads have died
+
+New Thread() [New State] ->start()-> Runnable->run()-> 'Running'->wait()|sleep()->'Waiting'->notify()|elapsed time->'Dead'
+
+How to create a Thread
+There two ways to create a thread
+Declare a new class as a subclass of the Thread class
+Must override the run() method
+An instance of this subclass can be allocated and started
+
+Implement the Runnable interface
+Create a new class that implements Runnable
+Create a Runnable object and use a Thread constructor
+Still must override the run() method
+
+Thread()
+Thread(Runnable obj)
+Thread(Runnable obj, String name)
+Thread(String name)
+
+##Thread State
+Each thread object has a state
+State includes name, alive/dead, execution state, and priority, and a daemon/non-daemon status
+Each attribute has a get/set method associated with it
+
+NEW - created but not started
+Runnable - a thread executing in the JVM
+Blocked - blocked waiting for a monitor to be unlocked
+Waiting - waiting to be notified to continue
+Time_waiting - waiting with a time limit
+Terminated - a thread that has completed execution
+
+##Thread Class
+Useful methods for thread management
+Including static and non-static methods
+Static methods affect the current thread
+Non-static methods operate on the calling thread
+
+##Static Methods
+activeCount() - returns estimated number of threads
+currentThread() - returnes reference to current thread
+enumerate(Thread[] tarr) - list of active threads
+sleep(long millis) - sleep or stop execution
+join() - returns estimated number of threads
+interrupt() - returns reference to current thread
+
+##Multithreaded application problems
+Thread interaction can cause problems
+Problems include race conditions, data races, and cached variable problems
+These make an application thread-unsafe
+Threads can increase complexity
+Reliance on synchronization can impact scalability
+A race condition occurs when threads depend on relative timing by the scheduler
+A data race occurs when two or more threads access the same memory location
+
+##Synchronization
+Synchronization can be used to solve race conditions, data races , and cached variable problems
+Prevents two threads from accessing a critical section
+Ensures threads can safely update shared variables
+Can be applied to methods or code blocks
+Synchronized code is know as critical sections
+JVM supports it via monitors
+Every Java object is associated with a monitor
+Before a thread enters a critical section, it must get a lock on the monitor
+If the monitor is already locked, the thread is blocked
+Shared variables are copied into the thread's working memory
+This ensures access to most recent values
+When done, it writes values back to main memory
+
+##Synchronized Methods
+Add keywords synchronized to the method header
+Prevents two threads from accessing same critical code
+
+##Synchroinzed Block
+A synchronized block is identified by a special header
+The header identifies the object for the lock 

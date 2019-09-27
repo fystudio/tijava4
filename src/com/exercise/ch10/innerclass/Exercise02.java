@@ -2,7 +2,10 @@ package com.exercise.ch10.innerclass;
 
 import static net.mindview.util.Print.print;
 //: innerclasses/Sequence.java
-
+/*Exercise 2:(1) Create a class that holds a String, and has a toString( ) method that
+displays this String. Add several instances of your new class to a Sequence object, then
+display them.
+* */
 //Holds a sequence of Objects.
 
 interface Selector {
@@ -51,7 +54,7 @@ class Sequence {
 	 * Output: 0 1 2 3 4 5 6 7 8 9
 	 */// :~
 
-public class Exe02 {
+public class Exercise02 {
 
 	public String toString() {
 		print("Exe02 toString");
@@ -61,7 +64,7 @@ public class Exe02 {
 	public static void main(String[] args) {
 		Sequence sequence = new Sequence(10);
 		for (int i = 0; i < 10; i++)
-			sequence.add(new Exe02());
+			sequence.add(new Exercise02());
 		Selector selector = sequence.selector();
 		while (!selector.end()) {
 			System.out.print(selector.current() + " ");

@@ -1,25 +1,16 @@
 package com.exercise.ch10.innerclass;
 
-class TestExe06{
+import com.course.ch10.innerclass.ToyInterface;
 
+import static net.mindview.util.Print.print;
+
+public class ToyFactory {
+    protected class Toy implements ToyInterface {
+        Toy(){
+            print("My name is Toy");
         }
-//public class Exe06 extends TestExe06 {
-
-//	Exe06I recap() {
-//
-//		return new English();
-//
-//	}
-//
-//	public static void main(String[] args) {
-//		Exe06 e = new Exe06();
-//		Exe06I ei = e.recap();
-//		ei.read();
-//		ei.listen();
-//		ei.write();
-//	}
-//}
-//English
-//read
-//listen
-//write
+        public void move() {
+            print("I'm your new friend");
+        }
+    }
+}

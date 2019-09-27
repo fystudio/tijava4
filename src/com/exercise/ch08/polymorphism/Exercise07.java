@@ -13,7 +13,7 @@ class Instrument4 {
 		print("Adjusting Instrument");
 	}
 
-	public String toString() {
+	public String what() {
 		print("print Instrument");
 		return "Instrument";
 	}
@@ -23,16 +23,11 @@ class Wind4 extends Instrument4 {
 	void play(Note n) {
 		print("Wind.play() " + n);
 	}
-
-	// String what() {
-	// return "Wind";
-	// }
-
 	void adjust() {
 		print("Adjusting Wind");
 	}
 
-	public String toString() {
+	public String what() {
 		print("print Wind");
 		return "Wind";
 	}
@@ -42,16 +37,11 @@ class Percussion4 extends Instrument4 {
 	void play(Note n) {
 		print("Percussion.play() " + n);
 	}
-
-	// String what() {
-	// return "Percussion";
-	// }
-
 	void adjust() {
 		print("Adjusting Percussion");
 	}
 
-	public String toString() {
+	public String what() {
 		print("print Percussion");
 		return "Percussion";
 	}
@@ -61,16 +51,11 @@ class Stringed4 extends Instrument4 {
 	void play(Note n) {
 		print("Stringed.play() " + n);
 	}
-
-	// String what() {
-	// return "Stringed";
-	// }
-
 	void adjust() {
 		print("Adjusting Stringed");
 	}
 
-	public String toString() {
+	public String what() {
 		print("print Stringed");
 		return "Stringed";
 	}
@@ -85,7 +70,7 @@ class Brass4 extends Wind4 {
 		print("Adjusting Brass");
 	}
 
-	public String toString() {
+	public String what() {
 		print("print Brass");
 		return "Brass";
 	}
@@ -95,30 +80,24 @@ class Woodwind4 extends Wind4 {
 	void play(Note n) {
 		print("Woodwind.play() " + n);
 	}
-
-	// String what() {
-	// return "Woodwind";
-	// }
-
-	public String toString() {
+	public String what() {
 		print("print Woodwind");
 		return "Woodwind";
 	}
 }
-
 class Piano extends Instrument4 {
 	void play(Note n) {
 		print("Piano.play()" + n);
 	}
 
-	public String toString() {
+	public String what() {
 		print("print Piano");
 		return "Piano";
 	}
 
 }
 
-public class Exe07 {
+public class Exercise07 {
 
 	public static void tune(Instrument4 i) {
 		// ...
@@ -132,14 +111,9 @@ public class Exe07 {
 
 	public static void printAll(Instrument4[] i) {
 		for (Instrument4 t : i) {
-			t.toString();
+			t.what();
 		}
 	}
-
-	public Exe07() {
-		// TODO Auto-generated constructor stub
-	}
-
 	public static void main(String[] args) {
 		// Upcasting during addition to the array:
 		Instrument4[] orchestra = { new Wind4(), new Percussion4(), new Stringed4(), new Brass4(), new Woodwind4() , new Piano()};

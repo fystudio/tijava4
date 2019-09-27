@@ -57,5 +57,18 @@ public class ReferenceCounting {
 			c.dispose();
 		}
 	}
+/*Creating Shared0
+Creating Composing 0
+Creating Composing 1
+Creating Composing 2
+Creating Composing 3
+Creating Composing 4
+disposingComposing 0
+disposingComposing 1
+disposingComposing 2
+disposingComposing 3
+disposingComposing 4
+Disposing Shared0
 
+* */
 }

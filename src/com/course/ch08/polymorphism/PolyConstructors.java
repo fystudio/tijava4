@@ -13,7 +13,18 @@ class Glyph {
 		print("Glyph() after draw()");
 	}
 }
+class RectangularGlyph extends Glyph{
+	private int dot= 1;
 
+	public RectangularGlyph(int d) {
+		dot= d;
+		print("RectangularGlyph(),dot=" + dot);
+	}
+
+	void draw() {
+		print("RectangularGlyph(),dot=" + dot);
+	}
+}
 class RoundGlyph extends Glyph {
 	private int radius = 1;
 
@@ -35,3 +46,8 @@ public class PolyConstructors {
 	}
 
 }
+/*Glyph() before draw()
+RoundGlyhp.draw(),radius=0   (initialize before defined)
+Glyph() after draw()
+RoundGlyph.RouldGlyph(),radius=5
+* */

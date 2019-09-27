@@ -25,7 +25,7 @@ class Shared {
 	}
 }
 
-public class Exe14 {
+public class Exercise14 {
 
 	public static void main(String[] args) {
 

@@ -21,3 +21,4 @@ public class PrivateOverride {
 	}
 
 }
+//print private f()

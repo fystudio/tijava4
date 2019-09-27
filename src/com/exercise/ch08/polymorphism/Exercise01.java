@@ -1,11 +1,9 @@
 package com.exercise.ch08.polymorphism;
 
 import com.course.ch08.polymorphism.Wheel;
-
-/*
- * åˆ›å»ºä¸€ä¸ªCycle ç±»ï¼Œå®ƒå…·æœ‰å­�ç±» Unicycleï¼ŒBicycleï¼ŒTricycle
- * æ¼”ç¤ºæ¯�ä¸€ä¸ªå®žä¾‹éƒ½å�¯ä»¥ç»�ç”±ride æ–¹æ³•å�‘ä¸Šè½¬åž‹ä¸ºCycle
- * */
+/*create a Cycle class, with subclasses Unicycle, Bicycle and Tricycle.
+Demonstrate that an instance of each type can be upcast to Cycle via a ride() method
+* */
 class Cycle{
 	public void ride(Wheel w){
 		System.out.println("Cycle.ride");
@@ -13,7 +11,7 @@ class Cycle{
 	}
 }
 
-class Unicycle extends Cycle2{
+class Unicycle extends Cycle{
 	public void ride(Wheel w){
 		System.out.println("Unicycle.ride:"+Wheel.ONE_WHEEL);
 		
@@ -21,7 +19,7 @@ class Unicycle extends Cycle2{
 	
 }
 
-class Bicycle extends Cycle2{
+class Bicycle extends Cycle{
 	public void ride(Wheel w){
 		System.out.println("Bicycle.ride:"+Wheel.TWO_WHEELS);
 		
@@ -29,7 +27,7 @@ class Bicycle extends Cycle2{
 	
 }
 
-class Tricycle extends Cycle2{
+class Tricycle extends Cycle{
 	public void ride(Wheel w){
 		System.out.println("Tricycle.ride:"+Wheel.THREE_WHEELS);
 		
@@ -37,17 +35,16 @@ class Tricycle extends Cycle2{
 	
 }
 
-public class Exe01 {
+public class Exercise01{
 
-	
 	public static void main(String[] args) {
-		Cycle2 u = new Unicycle();
+		Cycle u = new Unicycle();
 		u.ride(Wheel.ONE_WHEEL);
 		
-		Cycle2 b = new Bicycle();
+		Cycle b = new Bicycle();
 		b.ride(Wheel.TWO_WHEELS);
 		
-		Cycle2 t = new Tricycle();
+		Cycle t = new Tricycle();
 		t.ride(Wheel.THREE_WHEELS);
 	}
 

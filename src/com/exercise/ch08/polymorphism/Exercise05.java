@@ -3,7 +3,8 @@ package com.exercise.ch08.polymorphism;
 import com.course.ch08.polymorphism.Wheel;
 
 /*
- * 以练习1为基础，在Cycle中添加wheels（）方法，它将返回轮子数量。修改ride方法调用它
+ * Starting from Exercise 1, add a wheels() method in Cycle, which returns the
+ * number of wheels. Modify ride() to call wheels() and verify that polymorphism works
  * */
 class Cycle2 {
 	public void ride(Wheel w) {
@@ -52,7 +53,7 @@ class Tricycle2 extends Cycle2 {
 
 }
 
-public class Exe05 {
+public class Exercise05 {
 
 	public static void main(String[] args) {
 		Cycle2 u = new Unicycle2();

@@ -30,7 +30,7 @@ class Out {
 	}
 }
 
-public class Exe07 {
+public class Exercise07 {
 
 	public static void main(String[] args) {
 		Out12 o = new Out12();

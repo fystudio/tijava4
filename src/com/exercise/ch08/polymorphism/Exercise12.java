@@ -27,15 +27,15 @@ class D{
 	}
 }
 
-public class Exe12 extends A {
+public class Exercise12 extends A {
 	private C c = new C();
 	private D d = new D();
-	public Exe12() {
-		print("print Exe12");
+	public Exercise12() {
+		print("print Exercise2");
 	}
 
 	public static void main(String[] args) {
-		new Exe12();
+		new Exercise12();
 	}
 } 
 

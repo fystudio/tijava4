@@ -5,6 +5,7 @@ package com.course.ch10.innerclass;
 
 public class Parcel5 {
 	public Destination destination(String s) {
+		//a class defined in method
 		class PDestination implements Destination {
 			private String label;
 

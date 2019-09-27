@@ -14,7 +14,7 @@ class TEDX implements TED13{
 		
 	}};
 
-public class Exe13 {
+public class Exercise13 {
 
 	public TEDX share() {
 		return new TEDX() {
@@ -31,7 +31,7 @@ public class Exe13 {
 	// new TEDX();
 
 	public static void main(String[] args) {
-		Exe13 e13 = new Exe13();
+		Exercise13 e13 = new Exercise13();
 		TEDX td = e13.share();
 		td.spread();
 

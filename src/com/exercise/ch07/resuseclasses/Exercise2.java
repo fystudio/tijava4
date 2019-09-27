@@ -2,7 +2,7 @@ package com.exercise.ch07.resuseclasses;
 
 import com.course.ch07.reuseclasses.Detergent;
 
-public class Exe02 extends Detergent {
+public class Exercise2 extends Detergent {
 
 	public void scrub() {
 		append("Detegent2.scrub()");
@@ -14,7 +14,7 @@ public class Exe02 extends Detergent {
 	}
 
 	public static void main(String[] args) {
-		Exe02 x = new Exe02();
+		Exercise2 x = new Exercise2();
 		x.dilute();
 		x.apply();
 		x.scrub();

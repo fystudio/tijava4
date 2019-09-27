@@ -5,6 +5,7 @@ package com.course.ch10.innerclass;
 
 public class Parcel6 {
 	private void internalTracking(boolean b) {
+		//within a scope
 		if (b) {
 			class TrackingSlip {
 				private String id;

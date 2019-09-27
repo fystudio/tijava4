@@ -9,18 +9,18 @@ interface Language {
 	void speak();
 }
 
-public class Exe11 {
+public class Exercise11 {
 
 	private class English implements Language {
 
 		@Override
 		public void speak() {
-			print("speak");
+			print("speak English");
 
 		}
 		
 		public void write(){
-			print("write");
+			print("write in English");
 		}
 
 	}
@@ -30,7 +30,7 @@ public class Exe11 {
 	}
 
 	public static void main(String[] args) {
-		Exe11 e11 = new Exe11();
+		Exercise11 e11 = new Exercise11();
 		English eg = (English) e11.talk();
 		eg.write();
 		Language lg = e11.talk();

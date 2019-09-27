@@ -1,7 +1,9 @@
 package com.exercise.ch10.innerclass;
 
 import static net.mindview.util.Print.print;
-
+/*Exercise 14:
+(1) Modify interfaces/HorrorShow.java to implement
+DangerousMonster and Vampire using anonymous classes.*/
 interface Monster {
 	void menace();
 }
@@ -40,7 +42,7 @@ class VeryBadVampire implements Vampire {
 	}
 }
 
-public class Exe14 {
+public class Exercise14 {
 
 	static DangerousMonster killMonster() {
 		return new DragonZilla() {

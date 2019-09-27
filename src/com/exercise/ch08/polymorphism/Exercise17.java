@@ -50,7 +50,7 @@ class Tricycle3 extends Cycle3 {
 
 }
 
-public class Exe17 {
+public class Exercise17 {
 
 	public static void main(String[] args) {
 		Cycle3 u = new Unicycle3();

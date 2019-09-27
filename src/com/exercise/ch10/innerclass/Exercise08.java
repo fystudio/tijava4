@@ -5,7 +5,7 @@ import static net.mindview.util.Print.print;
 class Out1 {
 
 	void verfy() {
-//		print(in);
+//!		print(in);
 	}
 
 	class Inn1 {
@@ -13,6 +13,8 @@ class Out1 {
 	}
 }
 
-public class Exe08 {
-
+public class Exercise08 {
+	public static void main(String[] args) {
+		new Out1().verfy();
+	}
 }

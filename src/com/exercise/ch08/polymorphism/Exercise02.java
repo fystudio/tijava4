@@ -1,6 +1,6 @@
 package com.exercise.ch08.polymorphism;
 /*
- * 在几何图形的示例中添加@Override注解
+ * iadd the @Override annotation to the shapes example
  */
 import static net.mindview.util.Print.print;
 
@@ -20,7 +20,7 @@ class Triangle extends Shape{
 		print("Tringle.draw()");
 	}
 }
-public class Exe02 {
+public class Exercise02 {
 	
 	public static void main(String[] args){
 		Shape s = new Triangle();

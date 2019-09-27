@@ -26,7 +26,7 @@ class Out12 {
 
 }
 
-public class Exe12 {
+public class Exercise12 {
 
 	public static void main(String[] args) {
 		Out12 ot = new Out12();

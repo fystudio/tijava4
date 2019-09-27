@@ -2,45 +2,210 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70e044ce-13fa-4acc-98d5-3615dd072ff1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/course/ch05/initialization/ArrayClassObj.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/course/ch05/initialization/ArrayInit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/course/ch05/initialization/ArrayNew.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/course/ch05/initialization/ArraysOfPrimitives.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/course/ch05/initialization/AutoboxingVarargs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/course/ch05/initialization/Burrito.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/course/ch05/initialization/DynamicArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/course/ch05/initialization/EnumOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/course/ch05/initialization/ExplicitStatic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/course/ch05/initialization/InitialValues.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/course/ch05/initialization/Mugs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/course/ch05/initialization/NewVarArgs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/course/ch05/initialization/OptionalTrailingArguments.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/course/ch05/initialization/OrderOfInitialization.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/course/ch05/initialization/OverloadingVarargs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/course/ch05/initialization/OverloadingVarargs2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/course/ch05/initialization/OverloadingVarargs3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/course/ch05/initialization/SimpleEnumUse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/course/ch05/initialization/StaticInitialization.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/course/ch05/initialization/VarargType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercise/ch05/initialization/VarArgs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/testzip.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/course/ch06/access/ChocolateChip2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/course/ch06/access/Cookie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/course/ch06/access/Lunch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/course/ch06/access/MyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/course/ch06/access/QualifiedClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/course/ch07/reuseclasses/SprinklerSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/course/ch08/polymorphism/Polygon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/course/ch08/polymorphism/StaticPolymorphism.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/course/util/access/debug/Debug.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/course/util/access/debugoff/Debug.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/exercise/ch06/access/Exercise1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/exercise/ch06/access/Exercise2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/exercise/ch06/access/Exercise3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/exercise/ch06/access/Exercise4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/exercise/ch06/access/Exercise5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/exercise/ch06/access/Exercise6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/exercise/ch06/access/Exercise7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/exercise/ch06/access/Exercise8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/exercise/ch06/access/Exercise9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/exercise/ch08/polymorphism/Exercise06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/exercise/ch10/innerclass/Exercise06.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/tijava4.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/course/ch05/initialization/Flower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/course/ch05/initialization/Flower.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/course/ch05/initialization/TerminationCondition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/course/ch05/initialization/TerminationCondition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/exercise/ch05/initialization/Exercise14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercise/ch05/initialization/Exercise14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/exercise/ch05/initialization/Exercise16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercise/ch05/initialization/Exercise16.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/exercise/ch05/initialization/Exercise17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercise/ch05/initialization/Exercise17.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/exercise/ch05/initialization/Exercise18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercise/ch05/initialization/Exercise18.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/exercise/ch05/initialization/Exercise19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercise/ch05/initialization/Exercise19.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/exercise/ch05/initialization/Exercise20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercise/ch05/initialization/Exercise20.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/exercise/ch05/initialization/Exercise21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercise/ch05/initialization/Exercise21.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/exercise/ch05/initialization/Exercise22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercise/ch05/initialization/Exercise22.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/course/ch08/polymorphism/Instrument.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/course/ch08/polymorphism/Instrument.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/course/ch08/polymorphism/Music.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/course/ch08/polymorphism/Music.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/course/ch08/polymorphism/PolyConstructors.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/course/ch08/polymorphism/PolyConstructors.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/course/ch08/polymorphism/RandomShapeGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/course/ch08/polymorphism/RandomShapeGenerator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/course/ch08/polymorphism/RoundGlyph.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/course/ch08/polymorphism/RoundGlyph.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/course/ch08/polymorphism/Shapes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/course/ch08/polymorphism/Shapes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/course/ch08/polymorphism/Wind.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/course/ch08/polymorphism/Wind.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/course/ch10/innerclass/Exe06I.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/course/ch10/innerclass/Parcel5$1PDestination.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/course/ch10/innerclass/Parcel5$1PDestination.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/course/ch10/innerclass/Parcel5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/course/ch10/innerclass/Parcel5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/course/ch10/innerclass/Parcel6$1TrackingSlip.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/course/ch10/innerclass/Parcel6$1TrackingSlip.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/course/ch10/innerclass/Parcel6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/course/ch10/innerclass/Parcel6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch05/initialization/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch05/initialization/VarArgs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch07/resuseclasses/Art.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch07/resuseclasses/Art.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch07/resuseclasses/Bass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch07/resuseclasses/Bass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch07/resuseclasses/Cartoon.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch07/resuseclasses/Cartoon.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch07/resuseclasses/Drawing.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch07/resuseclasses/Drawing.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch07/resuseclasses/Exe01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch07/resuseclasses/Exe02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch07/resuseclasses/Exe03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Actor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Actor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/B.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Base.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Base.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Bicycle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Bicycle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Bicycle2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Bicycle2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Bicycle3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Bicycle3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Brass3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Brass3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Brass4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Brass4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Brass5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Brass5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Bread1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Bread1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/C.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/C.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Cheese1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Cheese1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Child.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Child.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Cycle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Cycle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Cycle1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Cycle1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Cycle2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Cycle2$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Cycle2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Cycle2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Cycle3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Cycle3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/D.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/D.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Exe01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Exe02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Exe03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Exe04.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Exe05.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Exe06.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Exe07.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Exe08.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Exe09.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Exe10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Exe11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Exe12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Exe14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Exe15.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Exe16.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Exe17.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Gerbil.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Gerbil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Glyph.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Glyph.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Hamster.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Hamster.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/HappyActor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/HappyActor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Instrument3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Instrument3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Instrument4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Instrument4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Instrument5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Instrument5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Lettuce1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Lettuce1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Lunch1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Lunch1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Meal1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Meal1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Mouse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Mouse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Percussion3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Percussion3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Percussion4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Percussion4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Percussion5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Percussion5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Piano.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Piano.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Pickle1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Pickle1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/PortableLunch1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/PortableLunch1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/RandomInstrumentGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/RandomInstrumentGenerator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/RetangularGlyph.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/RetangularGlyph.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Rodent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Rodent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/RoundGlyph.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/RoundGlyph.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/SadActor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/SadActor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Sandwich.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Sandwich.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Shape.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Shape1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Shape1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Shared.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Shared.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Square1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Square1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Stage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Stage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/StarShip.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/StarShip.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Stringed3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Stringed3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Stringed4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Stringed4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Stringed5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Stringed5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Triangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Triangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Triangle1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Triangle1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Tricycle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Tricycle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Tricycle2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Tricycle2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Tricycle3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Tricycle3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Unicycle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Unicycle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Unicycle2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Unicycle2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Unicycle3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Unicycle3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Wind3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Wind3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Wind4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Wind4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Wind5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Wind5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Woodwind3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Woodwind3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Woodwind4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Woodwind4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Woodwind5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch08/polymorphism/Woodwind5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch10/innerclass/Exe01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch10/innerclass/Exe02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch10/innerclass/Exe03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch10/innerclass/Exe04.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch10/innerclass/Exe05$Inner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch10/innerclass/Exe05.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch10/innerclass/Exe07.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch10/innerclass/Exe08.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch10/innerclass/Exe09$1TEDX.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch10/innerclass/Exe09.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch10/innerclass/Exe10$1TT.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch10/innerclass/Exe10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch10/innerclass/Exe11$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch10/innerclass/Exe11$English.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch10/innerclass/Exe11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch10/innerclass/Language.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch10/innerclass/Language.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch10/innerclass/Out$Inn.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch10/innerclass/Out$Inn.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch10/innerclass/Out.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch10/innerclass/Out.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch10/innerclass/Out1$Inn1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch10/innerclass/Out1$Inn1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch10/innerclass/Out1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch10/innerclass/Out1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch10/innerclass/Outer$Inner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch10/innerclass/Outer$Inner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch10/innerclass/Outer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch10/innerclass/Outer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch10/innerclass/Outer1$Inner1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch10/innerclass/Outer1$Inner1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch10/innerclass/Outer1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch10/innerclass/Outer1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch10/innerclass/Selector.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch10/innerclass/Selector.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch10/innerclass/Sequence$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch10/innerclass/Sequence$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch10/innerclass/Sequence$SequenceSelector.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch10/innerclass/Sequence$SequenceSelector.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch10/innerclass/Sequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch10/innerclass/Sequence.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch10/innerclass/Sequence3$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch10/innerclass/Sequence3$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch10/innerclass/Sequence3$SequenceSelector.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch10/innerclass/Sequence3$SequenceSelector.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch10/innerclass/Sequence3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch10/innerclass/Sequence3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch10/innerclass/TED.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch10/innerclass/TED.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tijava4/com/exercise/ch10/innerclass/TestExe06.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/course/ch08/polymorphism/Music.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/course/ch08/polymorphism/Music.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/course/ch08/polymorphism/PolyConstructors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/course/ch08/polymorphism/PolyConstructors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/course/ch08/polymorphism/PrivateOverride.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/course/ch08/polymorphism/PrivateOverride.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/course/ch08/polymorphism/RandomShapeGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/course/ch08/polymorphism/RandomShapeGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/course/ch08/polymorphism/ReferenceCounting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/course/ch08/polymorphism/ReferenceCounting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/course/ch08/polymorphism/Shapes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/course/ch08/polymorphism/Shapes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/course/ch10/innerclass/Exe06I.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/course/ch10/innerclass/ToyInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/course/ch10/innerclass/Parcel5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/course/ch10/innerclass/Parcel5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/course/ch10/innerclass/Parcel6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/course/ch10/innerclass/Parcel6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/course/ch10/innerclass/TestParcel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/course/ch10/innerclass/TestParcel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercise/ch07/resuseclasses/Exe01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercise/ch07/resuseclasses/Exercise1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercise/ch07/resuseclasses/Exe02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercise/ch07/resuseclasses/Exercise2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercise/ch07/resuseclasses/Exe03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercise/ch07/resuseclasses/Exercise3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercise/ch08/polymorphism/Exe01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercise/ch08/polymorphism/Exercise01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercise/ch08/polymorphism/Exe02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercise/ch08/polymorphism/Exercise02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercise/ch08/polymorphism/Exe03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercise/ch08/polymorphism/Exercise03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercise/ch08/polymorphism/Exe04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercise/ch08/polymorphism/Exercise04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercise/ch08/polymorphism/Exe05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercise/ch08/polymorphism/Exercise05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercise/ch08/polymorphism/Exe06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercise/ch08/polymorphism/Exe07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercise/ch08/polymorphism/Exercise07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercise/ch08/polymorphism/Exe08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercise/ch08/polymorphism/Exercise08.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercise/ch08/polymorphism/Exe09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercise/ch08/polymorphism/Exercise09.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercise/ch08/polymorphism/Exe10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercise/ch08/polymorphism/Exercise10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercise/ch08/polymorphism/Exe11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercise/ch08/polymorphism/Exercise11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercise/ch08/polymorphism/Exe12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercise/ch08/polymorphism/Exercise12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercise/ch08/polymorphism/Exe14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercise/ch08/polymorphism/Exercise14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercise/ch08/polymorphism/Exe15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercise/ch08/polymorphism/Exercise15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercise/ch08/polymorphism/Exe16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercise/ch08/polymorphism/Exercise16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercise/ch08/polymorphism/Exe17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercise/ch08/polymorphism/Exercise17.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercise/ch10/innerclass/Exe01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercise/ch10/innerclass/Exercise01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercise/ch10/innerclass/Exe02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercise/ch10/innerclass/Exercise02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercise/ch10/innerclass/Exe03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercise/ch10/innerclass/Exercise03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercise/ch10/innerclass/Exe04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercise/ch10/innerclass/Exercise04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercise/ch10/innerclass/Exe05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercise/ch10/innerclass/Exercise05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercise/ch10/innerclass/Exe06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercise/ch10/innerclass/ToyFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercise/ch10/innerclass/Exe07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercise/ch10/innerclass/Exercise07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercise/ch10/innerclass/Exe08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercise/ch10/innerclass/Exercise08.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercise/ch10/innerclass/Exe09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercise/ch10/innerclass/Exercise09.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercise/ch10/innerclass/Exe10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercise/ch10/innerclass/Exercise10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercise/ch10/innerclass/Exe11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercise/ch10/innerclass/Exercise11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercise/ch10/innerclass/Exe12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercise/ch10/innerclass/Exercise12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercise/ch10/innerclass/Exe13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercise/ch10/innerclass/Exercise13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercise/ch10/innerclass/Exe14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercise/ch10/innerclass/Exercise14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercise/ch10/innerclass/Exe15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercise/ch10/innerclass/Exercise15.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -53,93 +218,33 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/exercise/ch05/initialization/Exercise19.java">
+        <entry file="file://$PROJECT_DIR$/src/com/course/ch10/innerclass/AnonymousConstructor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="363">
-              <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+            <state relative-caret-position="674">
+              <caret line="29" column="14" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/exercise/ch05/initialization/Exercise20.java">
+        <entry file="file://$PROJECT_DIR$/src/com/exercise/ch10/innerclass/Exercise14.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="167">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
-              <folding>
-                <element signature="e#285#286#0" expanded="true" />
-                <element signature="e#339#340#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/course/ch05/initialization/SimpleEnumUse.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/course/ch05/initialization/EnumOrder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/course/ch05/initialization/Burrito.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="429">
-              <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#186#187#0" expanded="true" />
-                <element signature="e#221#222#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/exercise/ch05/initialization/Exercise21.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="462">
+              <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/exercise/ch05/initialization/Exercise22.java">
+        <entry file="file://$PROJECT_DIR$/src/com/exercise/ch10/innerclass/Exercise15.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="26" column="22" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
+            <state relative-caret-position="14">
+              <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
               <folding>
-                <element signature="e#170#171#0" expanded="true" />
-                <element signature="e#198#199#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/exercise/ch05/initialization/VarArgs.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="15" column="65" selection-start-line="14" selection-start-column="6" selection-end-line="15" selection-end-column="65" />
-              <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#126#127#0" expanded="true" />
+                <element signature="e#148#149#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -160,50 +265,70 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/course/ch05/initialization/Flower.java" />
-        <option value="$PROJECT_DIR$/src/com/exercise/ch05/initialization/Exercise9.java" />
-        <option value="$PROJECT_DIR$/src/com/course/ch05/initialization/Book.java" />
-        <option value="$PROJECT_DIR$/src/com/course/ch05/initialization/TerminationCondition.java" />
-        <option value="$PROJECT_DIR$/src/com/exercise/ch05/initialization/Exercise10.java" />
-        <option value="$PROJECT_DIR$/src/com/exercise/ch05/initialization/Exercise11.java" />
-        <option value="$PROJECT_DIR$/src/com/exercise/ch05/initialization/Exercise12.java" />
-        <option value="$PROJECT_DIR$/src/com/course/ch05/initialization/InitialValues.java" />
-        <option value="$PROJECT_DIR$/src/com/course/ch05/initialization/OrderOfInitialization.java" />
-        <option value="$PROJECT_DIR$/src/com/course/ch05/initialization/StaticInitialization.java" />
-        <option value="$PROJECT_DIR$/src/com/course/ch05/initialization/ExplicitStatic.java" />
-        <option value="$PROJECT_DIR$/src/com/exercise/ch05/initialization/Exercise14.java" />
-        <option value="$PROJECT_DIR$/src/com/course/ch05/initialization/Mugs.java" />
-        <option value="$PROJECT_DIR$/src/com/course/ch05/initialization/ArraysOfPrimitives.java" />
-        <option value="$PROJECT_DIR$/src/com/course/ch05/initialization/ArrayNew.java" />
-        <option value="$PROJECT_DIR$/src/com/course/ch05/initialization/ArrayInit.java" />
-        <option value="$PROJECT_DIR$/src/com/course/ch05/initialization/ArrayClassObj.java" />
-        <option value="$PROJECT_DIR$/src/com/course/ch05/initialization/DynamicArray.java" />
-        <option value="$PROJECT_DIR$/src/com/exercise/ch05/initialization/Exercise16.java" />
-        <option value="$PROJECT_DIR$/src/com/exercise/ch05/initialization/Exercise17.java" />
-        <option value="$PROJECT_DIR$/src/com/exercise/ch05/initialization/Exercise18.java" />
-        <option value="$PROJECT_DIR$/src/com/exercise/ch05/initialization/VarArgs.java" />
-        <option value="$PROJECT_DIR$/src/com/course/ch05/initialization/NewVarArgs.java" />
-        <option value="$PROJECT_DIR$/src/com/course/ch05/initialization/OptionalTrailingArguments.java" />
-        <option value="$PROJECT_DIR$/src/com/course/ch05/initialization/VarargType.java" />
-        <option value="$PROJECT_DIR$/src/com/course/ch05/initialization/AutoboxingVarargs.java" />
-        <option value="$PROJECT_DIR$/src/com/course/ch05/initialization/OverloadingVarargs.java" />
-        <option value="$PROJECT_DIR$/src/com/course/ch05/initialization/OverloadingVarargs3.java" />
-        <option value="$PROJECT_DIR$/src/com/course/ch05/initialization/OverloadingVarargs2.java" />
-        <option value="$PROJECT_DIR$/src/com/exercise/ch05/initialization/Exercise19.java" />
-        <option value="$PROJECT_DIR$/src/com/exercise/ch05/initialization/Exercise20.java" />
-        <option value="$PROJECT_DIR$/src/com/course/ch05/initialization/SimpleEnumUse.java" />
-        <option value="$PROJECT_DIR$/src/com/course/ch05/initialization/EnumOrder.java" />
-        <option value="$PROJECT_DIR$/src/com/course/ch05/initialization/Burrito.java" />
-        <option value="$PROJECT_DIR$/src/com/exercise/ch05/initialization/Exercise21.java" />
-        <option value="$PROJECT_DIR$/src/com/exercise/ch05/initialization/Exercise22.java" />
+        <option value="$PROJECT_DIR$/src/com/course/ch08/polymorphism/Polygon.java" />
+        <option value="$PROJECT_DIR$/src/com/exercise/ch08/polymorphism/Exe06.java" />
+        <option value="$PROJECT_DIR$/src/com/exercise/ch08/polymorphism/Exe07.java" />
+        <option value="$PROJECT_DIR$/src/com/exercise/ch08/polymorphism/Exercise07.java" />
+        <option value="$PROJECT_DIR$/src/com/exercise/ch08/polymorphism/Exercise06.java" />
+        <option value="$PROJECT_DIR$/src/com/exercise/ch08/polymorphism/Exe08.java" />
+        <option value="$PROJECT_DIR$/src/com/exercise/ch08/polymorphism/Exercise08.java" />
+        <option value="$PROJECT_DIR$/src/com/exercise/ch08/polymorphism/Exe09.java" />
+        <option value="$PROJECT_DIR$/src/com/exercise/ch08/polymorphism/Exe10.java" />
+        <option value="$PROJECT_DIR$/src/com/course/ch08/polymorphism/PrivateOverride.java" />
+        <option value="$PROJECT_DIR$/src/com/course/ch08/polymorphism/StaticPolymorphism.java" />
+        <option value="$PROJECT_DIR$/src/com/exercise/ch08/polymorphism/Exercise11.java" />
+        <option value="$PROJECT_DIR$/src/com/exercise/ch08/polymorphism/Exe12.java" />
+        <option value="$PROJECT_DIR$/src/com/exercise/ch08/polymorphism/Exercise12.java" />
+        <option value="$PROJECT_DIR$/src/com/exercise/ch08/polymorphism/Exe14.java" />
+        <option value="$PROJECT_DIR$/src/com/course/ch08/polymorphism/ReferenceCounting.java" />
+        <option value="$PROJECT_DIR$/src/com/course/ch08/polymorphism/PolyConstructors.java" />
+        <option value="$PROJECT_DIR$/src/com/exercise/ch08/polymorphism/Exe15.java" />
+        <option value="$PROJECT_DIR$/src/com/exercise/ch08/polymorphism/Exercise15.java" />
+        <option value="$PROJECT_DIR$/src/com/exercise/ch08/polymorphism/Exe16.java" />
+        <option value="$PROJECT_DIR$/src/com/exercise/ch08/polymorphism/Exe17.java" />
+        <option value="$PROJECT_DIR$/src/com/exercise/ch10/innerclass/Exercise01.java" />
+        <option value="$PROJECT_DIR$/src/com/exercise/ch10/innerclass/Exe03.java" />
+        <option value="$PROJECT_DIR$/src/com/exercise/ch10/innerclass/Exercise03.java" />
+        <option value="$PROJECT_DIR$/src/com/exercise/ch10/innerclass/Exercise02.java" />
+        <option value="$PROJECT_DIR$/src/com/exercise/ch10/innerclass/Exe04.java" />
+        <option value="$PROJECT_DIR$/src/com/exercise/ch10/innerclass/Exercise04.java" />
+        <option value="$PROJECT_DIR$/src/com/exercise/ch10/innerclass/Exe05.java" />
+        <option value="$PROJECT_DIR$/src/com/exercise/ch10/innerclass/Exercise05.java" />
+        <option value="$PROJECT_DIR$/src/com/course/ch10/innerclass/Parcel4.java" />
+        <option value="$PROJECT_DIR$/src/com/course/ch10/innerclass/TestParcel.java" />
+        <option value="$PROJECT_DIR$/src/com/course/ch10/innerclass/Exe06I.java" />
+        <option value="$PROJECT_DIR$/src/com/course/ch10/innerclass/Exercise06I.java" />
+        <option value="$PROJECT_DIR$/src/com/exercise/ch10/innerclass/Exercise06.java" />
+        <option value="$PROJECT_DIR$/src/com/exercise/ch10/innerclass/ToyFactory.java" />
+        <option value="$PROJECT_DIR$/src/com/exercise/ch10/innerclass/Exe07.java" />
+        <option value="$PROJECT_DIR$/src/com/exercise/ch10/innerclass/Exe08.java" />
+        <option value="$PROJECT_DIR$/src/com/course/ch10/innerclass/Parcel5.java" />
+        <option value="$PROJECT_DIR$/src/com/course/ch10/innerclass/Parcel6.java" />
+        <option value="$PROJECT_DIR$/src/com/exercise/ch10/innerclass/Exe09.java" />
+        <option value="$PROJECT_DIR$/src/com/exercise/ch10/innerclass/Exercise09.java" />
+        <option value="$PROJECT_DIR$/src/com/exercise/ch10/innerclass/Exe10.java" />
+        <option value="$PROJECT_DIR$/src/com/exercise/ch10/innerclass/Exe11.java" />
+        <option value="$PROJECT_DIR$/src/com/exercise/ch10/innerclass/Exercise11.java" />
+        <option value="$PROJECT_DIR$/src/com/course/ch10/innerclass/AnonymousConstructor.java" />
+        <option value="$PROJECT_DIR$/src/com/exercise/ch10/innerclass/Exe12.java" />
+        <option value="$PROJECT_DIR$/src/com/exercise/ch10/innerclass/Exe13.java" />
+        <option value="$PROJECT_DIR$/src/com/exercise/ch10/innerclass/Exercise13.java" />
+        <option value="$PROJECT_DIR$/src/com/exercise/ch10/innerclass/Exe14.java" />
+        <option value="$PROJECT_DIR$/src/com/exercise/ch10/innerclass/Exercise14.java" />
+        <option value="$PROJECT_DIR$/src/com/exercise/ch10/innerclass/Exe15.java" />
       </list>
     </option>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="261" />
-    <option name="y" value="408" />
-    <option name="width" value="1383" />
-    <option name="height" value="744" />
+    <option name="x" value="243" />
+    <option name="width" value="1410" />
+    <option name="height" value="609" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -243,6 +368,14 @@
               <item name="tijava4" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="course" type="462c0819:PsiDirectoryNode" />
+              <item name="innerclass" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tijava4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tijava4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="exercise" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -251,16 +384,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="exercise" type="462c0819:PsiDirectoryNode" />
-              <item name="initialization" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tijava4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tijava4" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="exercise" type="462c0819:PsiDirectoryNode" />
-              <item name="initialization" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercise20.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="innerclass" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -272,6 +396,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../javadp" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
@@ -286,15 +414,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Exercise22">
-    <configuration name="Burrito" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Exercise11">
+    <configuration name="DotNew" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="C:\Program Files\Java\jdk1.8.0_201\jre" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.course.ch05.initialization.Burrito" />
+      <option name="MAIN_CLASS_NAME" value="com.course.ch10.innerclass.DotNew" />
       <module name="tijava4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.course.ch05.initialization.*" />
+          <option name="PATTERN" value="com.course.ch10.innerclass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -302,14 +430,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EnumOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="DotThis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="C:\Program Files\Java\jdk1.8.0_201\jre" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.course.ch05.initialization.EnumOrder" />
+      <option name="MAIN_CLASS_NAME" value="com.course.ch10.innerclass.DotThis" />
       <module name="tijava4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.course.ch05.initialization.*" />
+          <option name="PATTERN" value="com.course.ch10.innerclass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -317,14 +445,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Exercise06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="C:\Program Files\Java\jdk1.8.0_201\jre" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.exercise.ch05.initialization.Exercise21" />
+      <option name="MAIN_CLASS_NAME" value="com.exercise.ch10.innerclass.Exercise06" />
       <module name="tijava4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.course.ch05.initialization.*" />
+          <option name="PATTERN" value="com.exercise.ch10.innerclass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -332,14 +460,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Exercise09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="C:\Program Files\Java\jdk1.8.0_201\jre" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.exercise.ch05.initialization.Exercise22" />
+      <option name="MAIN_CLASS_NAME" value="com.exercise.ch10.innerclass.Exercise09" />
       <module name="tijava4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.course.ch05.initialization.*" />
+          <option name="PATTERN" value="com.exercise.ch10.innerclass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -347,14 +475,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleEnumUse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Exercise11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="C:\Program Files\Java\jdk1.8.0_201\jre" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.course.ch05.initialization.SimpleEnumUse" />
+      <option name="MAIN_CLASS_NAME" value="com.exercise.ch10.innerclass.Exercise11" />
       <module name="tijava4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.course.ch05.initialization.*" />
+          <option name="PATTERN" value="com.exercise.ch10.innerclass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -371,11 +499,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exercise22" />
-        <item itemvalue="Application.Exercise21" />
-        <item itemvalue="Application.Burrito" />
-        <item itemvalue="Application.EnumOrder" />
-        <item itemvalue="Application.SimpleEnumUse" />
+        <item itemvalue="Application.Exercise11" />
+        <item itemvalue="Application.Exercise09" />
+        <item itemvalue="Application.Exercise06" />
+        <item itemvalue="Application.DotThis" />
+        <item itemvalue="Application.DotNew" />
       </list>
     </recent_temporary>
   </component>
@@ -393,10 +521,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24939272" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20682302" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -405,8 +533,8 @@
       <window_info id="Learn" order="6" weight="0.32955465" />
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3285968" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26110125" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.3285968" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.24156305" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -423,376 +551,434 @@
       <window_info anchor="right" id="Maven-2 Build" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="right" id="Maven" order="7" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven" order="8" weight="0.32955465" />
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/course/ch05/initialization/Flower.java">
+    <entry file="file://$PROJECT_DIR$/src/com/exercise/ch08/polymorphism/Exercise10.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        <state relative-caret-position="91">
+          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+          <folding>
+            <element signature="e#178#179#0" expanded="true" />
+            <element signature="e#203#204#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/exercise/ch08/polymorphism/Exercise09.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="53" column="21" selection-start-line="53" selection-start-column="21" selection-end-line="53" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/exercise/ch08/polymorphism/Exercise08.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="142" column="12" selection-start-line="142" selection-start-column="12" selection-end-line="142" selection-end-column="12" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#663#664#0" expanded="true" />
-            <element signature="e#686#687#0" expanded="true" />
+            <element signature="e#2202#2203#0" expanded="true" />
+            <element signature="e#2217#2218#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/exercise/ch05/initialization/E03_Constructor.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/exercise/ch05/initialization/Exercise3.java">
+    <entry file="file://$PROJECT_DIR$/src/com/course/ch08/polymorphism/Frog.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="-363">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/exercise/ch05/initialization/E12_Tank.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/exercise/ch05/initialization/Exercise9.java">
+    <entry file="file://$PROJECT_DIR$/src/com/exercise/ch08/polymorphism/Exercise11.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="17" column="23" lean-forward="true" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
-          <folding>
-            <element signature="e#267#268#0" expanded="true" />
-            <element signature="e#306#307#0" expanded="true" />
-            <element signature="e#352#353#0" expanded="true" />
-            <element signature="e#394#395#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="240">
+          <caret line="60" column="25" selection-start-line="60" selection-start-column="25" selection-end-line="60" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/course/ch05/initialization/TerminationCondition.java">
+    <entry file="file://$PROJECT_DIR$/src/com/course/ch08/polymorphism/Sandwich.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="27" column="20" lean-forward="true" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#158#159#0" expanded="true" />
-            <element signature="e#195#196#0" expanded="true" />
-            <element signature="e#215#216#0" expanded="true" />
-            <element signature="e#244#245#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="231">
+          <caret line="54" column="4" selection-start-line="54" selection-start-column="4" selection-end-line="54" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/exercise/ch10/innerclass/Exe10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-465">
-          <caret line="7" column="15" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/exercise/ch05/initialization/E10.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/exercise/ch05/initialization/Exercise11.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/exercise/ch05/initialization/Exercise10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/exercise/ch05/initialization/Exercise12.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="28" column="24" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/course/ch05/initialization/InitialValues.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/course/ch05/initialization/OrderOfInitialization.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/course/ch05/initialization/StaticInitialization.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1254">
-          <caret line="48" column="5" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/course/ch05/initialization/ExplicitStatic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
-          <folding>
-            <element signature="e#118#119#0" expanded="true" />
-            <element signature="e#162#163#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/exercise/ch05/initialization/Exercise13.java">
+    <entry file="file://$PROJECT_DIR$/src/com/course/ch08/polymorphism/StaticPolymorphism.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
           <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/exercise/ch05/initialization/Exercise14.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/course/ch05/initialization/Mugs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="891">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
           <folding>
-            <element signature="e#181#182#0" expanded="true" />
-            <element signature="e#219#220#0" expanded="true" />
-            <element signature="e#387#388#0" expanded="true" />
-            <element signature="e#418#419#0" expanded="true" />
-            <element signature="e#435#436#0" expanded="true" />
-            <element signature="e#471#472#0" expanded="true" />
+            <element signature="e#213#214#0" expanded="true" />
+            <element signature="e#255#256#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/exercise/ch05/initialization/Exercise16.java">
+    <entry file="file://$PROJECT_DIR$/src/com/exercise/ch08/polymorphism/Exercise14.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/exercise/ch05/initialization/Exercise15.java">
+    <entry file="file://$PROJECT_DIR$/src/com/course/ch08/polymorphism/Music3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="39" column="11" selection-start-line="39" selection-start-column="11" selection-end-line="39" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/exercise/ch08/polymorphism/Exercise04.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7" selection-start-column="7" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/exercise/ch08/polymorphism/Exercise12.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-86">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#401#402#0" expanded="true" />
+            <element signature="e#432#433#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/course/ch08/polymorphism/ReferenceCounting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="53" column="19" selection-start-line="53" selection-start-column="19" selection-end-line="53" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/exercise/ch08/polymorphism/Exe13.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/exercise/ch08/polymorphism/Exercise17.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/exercise/ch08/polymorphism/Exercise16.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/course/ch08/polymorphism/CovariantReturn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/exercise/ch08/polymorphism/Exercise15.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="54" column="13" selection-start-line="54" selection-start-column="13" selection-end-line="54" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/course/ch08/polymorphism/PolyConstructors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+          <folding>
+            <element signature="e#401#402#0" expanded="true" />
+            <element signature="e#451#452#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/exercise/ch10/innerclass/Exercise01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+          <folding>
+            <element signature="e#132#133#0" expanded="true" />
+            <element signature="e#159#160#0" expanded="true" />
+            <element signature="e#189#190#0" expanded="true" />
+            <element signature="e#218#219#0" expanded="true" />
+            <element signature="e#242#243#0" expanded="true" />
+            <element signature="e#267#268#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/course/ch10/innerclass/DotNew.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/course/ch10/innerclass/DotThis.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/course/ch10/innerclass/Sequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/course/ch10/innerclass/Parcel1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/course/ch09/interfaces/Music4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/exercise/ch10/innerclass/Exercise04.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+          <folding>
+            <element signature="e#186#187#0" expanded="true" />
+            <element signature="e#217#218#0" expanded="true" />
+            <element signature="e#401#402#0" expanded="true" />
+            <element signature="e#434#435#0" expanded="true" />
+            <element signature="e#470#471#0" expanded="true" />
+            <element signature="e#500#501#0" expanded="true" />
+            <element signature="e#600#601#0" expanded="true" />
+            <element signature="e#631#632#0" expanded="true" />
+            <element signature="e#665#666#0" expanded="true" />
+            <element signature="e#701#702#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/exercise/ch10/innerclass/Exercise05.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+          <folding>
+            <element signature="e#143#144#0" expanded="true" />
+            <element signature="e#166#167#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/exercise/ch10/innerclass/Exercise03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/exercise/ch10/innerclass/Exercise02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/course/ch10/innerclass/Parcel4.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/exercise/ch10/innerclass/Exercise06.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="18" column="18" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/exercise/ch10/innerclass/Exercise07.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="71">
+          <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/exercise/ch10/innerclass/ToyFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+          <folding>
+            <element signature="e#223#224#0" expanded="true" />
+            <element signature="e#254#255#0" expanded="true" />
+            <element signature="e#237#238#0" expanded="true" />
+            <element signature="e#289#290#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/course/ch10/innerclass/ToyInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/course/ch10/innerclass/TestParcel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1023">
+          <caret line="41" column="5" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/course/ch10/innerclass/Parcel2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="30" column="17" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/course/ch10/innerclass/Parcel3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/course/ch10/innerclass/Destination.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/exercise/ch10/innerclass/Exercise11.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+          <folding>
+            <element signature="e#563#564#0" expanded="true" />
+            <element signature="e#586#587#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/exercise/ch10/innerclass/Exercise10.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/course/ch05/initialization/ArraysOfPrimitives.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/course/ch05/initialization/ArrayNew.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" column="38" selection-start-line="10" selection-start-column="8" selection-end-line="11" selection-end-column="38" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#316#317#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/course/ch05/initialization/ArrayInit.java">
+    <entry file="file://$PROJECT_DIR$/src/com/exercise/ch10/innerclass/Exercise09.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
+        <state relative-caret-position="183">
+          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+          <folding>
+            <element signature="e#452#453#0" expanded="true" />
+            <element signature="e#478#479#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/course/ch10/innerclass/Parcel6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="27" column="23" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/course/ch10/innerclass/Parcel5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/exercise/ch10/innerclass/Exercise08.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
           <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#245#246#0" expanded="true" />
+            <element signature="e#260#261#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/course/ch05/initialization/ArrayClassObj.java">
+    <entry file="file://$PROJECT_DIR$/src/com/course/ch10/innerclass/Parcel7b.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="429">
+          <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/course/ch05/initialization/DynamicArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="5" column="44" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/exercise/ch05/initialization/Exercise17.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="13" column="13" selection-start-line="14" selection-start-column="6" selection-end-line="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/exercise/ch05/initialization/Exercise18.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/course/ch05/initialization/OverloadingVarargs2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
-          <folding>
-            <element signature="e#119#120#0" expanded="true" />
-            <element signature="e#137#138#0" expanded="true" />
-            <element signature="e#233#234#0" expanded="true" />
-            <element signature="e#256#257#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/course/ch05/initialization/OverloadingVarargs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-          <folding>
-            <element signature="e#408#409#0" expanded="true" />
-            <element signature="e#431#432#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/course/ch05/initialization/VarargType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="19" column="40" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/course/ch05/initialization/OptionalTrailingArguments.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/course/ch05/initialization/NewVarArgs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-          <folding>
-            <element signature="e#102#103#0" expanded="true" />
-            <element signature="e#125#126#0" expanded="true" />
-            <element signature="e#178#179#0" expanded="true" />
-            <element signature="e#217#218#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/course/ch05/initialization/AutoboxingVarargs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/course/ch05/initialization/OverloadingVarargs3.java">
+    <entry file="file://$PROJECT_DIR$/src/com/course/ch10/innerclass/Parcel8.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
           <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
           <folding>
-            <element signature="e#120#121#0" expanded="true" />
-            <element signature="e#150#151#0" expanded="true" />
-            <element signature="e#188#189#0" expanded="true" />
-            <element signature="e#219#220#0" expanded="true" />
+            <element signature="e#279#280#0" expanded="true" />
+            <element signature="e#322#323#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/exercise/ch05/initialization/Exercise19.java">
+    <entry file="file://$PROJECT_DIR$/src/com/course/ch10/innerclass/Parcel9.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        <state relative-caret-position="396">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Random.java">
+    <entry file="file://$PROJECT_DIR$/src/com/exercise/ch10/innerclass/Exercise12.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="139" column="38" selection-start-line="139" selection-start-column="28" selection-end-line="139" selection-end-column="38" />
+        <state relative-caret-position="627">
+          <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/course/ch05/initialization/SimpleEnumUse.java">
+    <entry file="file://$PROJECT_DIR$/src/com/exercise/ch10/innerclass/Exercise13.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        <state relative-caret-position="443">
+          <caret line="33" column="37" selection-start-line="33" selection-start-column="37" selection-end-line="33" selection-end-column="37" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#287#380#0" expanded="true" />
+            <element signature="e#379#380#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/exercise/ch05/initialization/VarArgs.java">
+    <entry file="file://$PROJECT_DIR$/src/com/course/ch10/innerclass/AnonymousConstructor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="15" column="65" selection-start-line="14" selection-start-column="6" selection-end-line="15" selection-end-column="65" />
+        <state relative-caret-position="674">
+          <caret line="29" column="14" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/exercise/ch10/innerclass/Exercise14.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/exercise/ch10/innerclass/Exercise15.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14">
+          <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
           <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/exercise/ch05/initialization/Exercise20.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="e#285#286#0" expanded="true" />
-            <element signature="e#339#340#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/course/ch05/initialization/Burrito.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="429">
-          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#186#187#0" expanded="true" />
-            <element signature="e#221#222#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/course/ch05/initialization/EnumOrder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/exercise/ch05/initialization/Exercise21.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/exercise/ch05/initialization/Exercise22.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="26" column="22" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
-          <folding>
-            <element signature="e#170#171#0" expanded="true" />
-            <element signature="e#198#199#0" expanded="true" />
+            <element signature="e#126#127#0" expanded="true" />
+            <element signature="e#148#149#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -800,9 +986,78 @@
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>javadp</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
           <splitter-proportions>
             <option name="proportions">
               <list>

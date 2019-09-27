@@ -1,7 +1,10 @@
 package com.exercise.ch10.innerclass;
 
 import static net.mindview.util.Print.print;
-
+/**
+ * Exercise 4:(2) Add a method to the class Sequence.SequenceSelector that produces
+ * the reference to the outer class Sequence.
+ * **/
 class Sequence3 {
 	private Object[] items;
 	private int next = 0;
@@ -21,7 +24,7 @@ class Sequence3 {
 		public boolean end() {
 			return i == items.length;
 		}
-
+//.this
 		public Object current() {
 			return Sequence3.this;
 		}
@@ -31,9 +34,9 @@ class Sequence3 {
 				i++;
 		}
 
-		// public Sequence3 getSequence3() {
-		// return Sequence3.this;
-		// }
+		 public Sequence3 getSequence3() {
+		 return Sequence3.this;
+		 }
 	}
 
 	public Selector selector() {
@@ -42,7 +45,7 @@ class Sequence3 {
 
 }
 
-public class Exe04 {
+public class Exercise04 {
 	public static void main(String[] args) {
 		Sequence3 sequence = new Sequence3(2);
 
