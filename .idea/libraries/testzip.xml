@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="testzip">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../javadv/python/lnPython/testzip.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
